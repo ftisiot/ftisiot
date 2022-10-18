@@ -1,6 +1,6 @@
 Ciao! 👋
 
-I’m Francesco Tisiot, Senior Developer Advocate at Aiven. You can find me on twitter at [@Ftisiot](https://twitter.com/FTisiot), [LinkedIn](https://www.linkedin.com/in/francescotisiot/) or my [webpage](https://ftisiot.net)
+I’m Francesco Tisiot, Senior Developer Advocate at Aiven. You can find me on [twitter](https://twitter.com/FTisiot), [LinkedIn](https://www.linkedin.com/in/francescotisiot/) or my [webpage](https://ftisiot.net)
 
 
 Some projects worth a look:
