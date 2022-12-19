@@ -12,3 +12,4 @@ Some projects worth a look:
 * Combine [Flask and Apache Kafka® for event driven web apps](https://github.com/ftisiot/flask-apache-kafka-demo/stargazers)
  
 
+<link href="https://data-folks.masto.host/@ftisiot" rel="me">
